@@ -2,7 +2,7 @@
   {
     "name": "generiek",
     "type": "voc",
-    "eap": "OSLO-Vocabularium.eap",
+    "eap": "OSLO-Generiek-VOC.eap",
     "diagram": "OSLO-Generiek",
     "template": "generiek-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
